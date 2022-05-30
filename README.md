@@ -2,8 +2,16 @@
 Basic codes for inversion in StyleGANXL
 
 
-Check out the colab notebook. Inversion for Imagenet works best at 512x512 resolution. 
+Check out the colab notebook. Inversion for Imagenet works best at 512x512 resolution.
+
+General Observations :
+
+Works well for OOD Natural Images and even shapes. 
+
+Hard for facial images using Imagenet weights 
+
+Hard for cases where main object occupies proprotionally less space to the fore/back ground
 
 Adding codes for more experiments
 
-1 Super Resolution : We follow PULSE/BRGM's method
+1 Super Resolution : We follow PULSE/BRGM's method. Harder than naive inversion requires more iterations till convergence
