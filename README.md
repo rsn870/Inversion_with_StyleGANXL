@@ -15,3 +15,7 @@ Hard for cases where main object occupies proprotionally less space to the fore/
 Adding codes for more experiments
 
 1 Super Resolution : We follow PULSE/BRGM's method. Harder than naive inversion requires more iterations till convergence
+
+2 Masking : We follow PULSE/BRGM's method. Harder than naive inversion requires more iterations till convergence
+
+3 Colorization : We follow PULSE/BRGM's method. Harder than naive inversion requires more iterations till convergence
