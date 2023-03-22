@@ -6,7 +6,7 @@ Check out the colab notebook. Inversion for Imagenet works best at 512x512 resol
 
 General Observations :
 
-Works well for OOD Natural Images and even shapes. 
+Works reasonably well for OOD Natural Images and even shapes but requires a number of iterations.  
 
 Hard for facial images using Imagenet weights 
 
